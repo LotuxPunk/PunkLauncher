@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="2DEngine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/2DEngine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/2DEngine.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
