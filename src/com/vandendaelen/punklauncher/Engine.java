@@ -17,6 +17,7 @@ public class Engine extends Engine2D implements IDrawCall, IInput {
 
     @Override
     public void Init() {
+        Size(800,600);
         frameRate(30);
         TPS(20);
     }
@@ -28,7 +29,7 @@ public class Engine extends Engine2D implements IDrawCall, IInput {
 
     @Override
     public void Draw() {
-
+        Background(0);
     }
 
     @Override
