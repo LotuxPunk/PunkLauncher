@@ -1,4 +1,4 @@
-package sample;
+package com.vandendaelen.punklauncher;
 
 import fr.shiranuit.engine2d.Engine2D;
 import fr.shiranuit.engine2d.Interfaces.IDrawCall;
