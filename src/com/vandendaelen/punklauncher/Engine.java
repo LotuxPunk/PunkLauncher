@@ -20,6 +20,7 @@ public class Engine extends Engine2D implements IDrawCall, IInput {
         Size(800,600);
         frameRate(30);
         TPS(20);
+
     }
 
     @Override
